@@ -8,9 +8,5 @@
 4. Đặng Nhật Huy
 5. Trần Hoàng Trung Đức
 6. Lý Gia Thuận
-## Trong repo bao gồm những file sau:
-1. File data gốc có dạng csv
-2. File data sau khi ETL dạng Excel
-3. File Jupiter Notebook chứa source code của quá trình ETL
-4. File Power BI chứa các Dashboard trực quan dữ liệu
-5. File pdf nội dung của Dự án
+
+Đồ án thu được những kết quả đáng kể, ngoài những giá trị về phân tích mà còn rèn được kỹ năng làm việc nhóm một cách thống nhất và hiệu quả.
